@@ -1,0 +1,6 @@
+@BoxesTecnom_HostAddress = http://localhost:5128
+
+GET {{BoxesTecnom_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
