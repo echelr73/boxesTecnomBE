@@ -115,22 +115,22 @@
     "schemas": {
       "Appointment": {
         "required": [
-          "appointment_At",
+          "appointment_at",
           "contact",
-          "place_Id",
-          "service_Type"
+          "place_id",
+          "service_type"
         ],
         "type": "object",
         "properties": {
-          "place_Id": {
+          "place_id": {
             "type": "integer",
             "format": "int32"
           },
-          "appointment_At": {
+          "appointment_at": {
             "type": "string",
             "format": "date-time"
           },
-          "service_Type": {
+          "service_type": {
             "type": "string",
             "nullable": true
           },

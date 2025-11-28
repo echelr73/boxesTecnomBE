@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoxesTecnom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9af368801dbfa534033245ad27b6b0d69f543e0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoxesTecnom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoxesTecnom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

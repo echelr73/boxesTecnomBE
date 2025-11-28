@@ -34,3 +34,4 @@ C:\CursoNET\Challenge\BoxesTecnom\BoxesTecnom\obj\Debug\net8.0\refint\BoxesTecno
 C:\CursoNET\Challenge\BoxesTecnom\BoxesTecnom\obj\Debug\net8.0\BoxesTecnom.pdb
 C:\CursoNET\Challenge\BoxesTecnom\BoxesTecnom\obj\Debug\net8.0\BoxesTecnom.genruntimeconfig.cache
 C:\CursoNET\Challenge\BoxesTecnom\BoxesTecnom\obj\Debug\net8.0\ref\BoxesTecnom.dll
+C:\CursoNET\Challenge\BoxesTecnom\BoxesTecnom\obj\Debug\net8.0\BoxesTecnom.sourcelink.json

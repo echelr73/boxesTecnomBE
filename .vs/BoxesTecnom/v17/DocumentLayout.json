@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\CursoNET\\Challenge\\BoxesTecnom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\services\\iappointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\services\\iappointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\services\\workshopsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\services\\workshopsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,32 +11,52 @@
       "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\services\\iworkshopsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\boxestecnom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\boxestecnom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\appointmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\services\\iappointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\services\\iappointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|c:\\cursonet\\challenge\\boxestecnom\\boxestecnom\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A59D62-1A0A-48A1-9BD3-ED6120A26742}|BoxesTecnom\\BoxesTecnom.csproj|solutionrelative:boxestecnom\\controllers\\workshopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Program.cs",
+              "RelativeDocumentMoniker": "BoxesTecnom\\Program.cs",
+              "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Program.cs",
+              "RelativeToolTip": "BoxesTecnom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:06:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Models\\Contact.cs",
@@ -94,47 +107,51 @@
               "RelativeToolTip": "BoxesTecnom\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T00:05:25.242Z"
+              "WhenOpened": "2025-11-26T00:05:25.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Models\\Appointment.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Models\\Appointment.cs",
               "RelativeToolTip": "BoxesTecnom\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T00:04:20.3Z"
+              "WhenOpened": "2025-11-26T00:04:20.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "AppointmentResponseDto.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Dtos\\AppointmentResponseDto.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Dtos\\AppointmentResponseDto.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Dtos\\AppointmentResponseDto.cs",
               "RelativeToolTip": "BoxesTecnom\\Dtos\\AppointmentResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T23:39:43.62Z"
+              "WhenOpened": "2025-11-25T23:39:43.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AppointmentRequestDto.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Dtos\\AppointmentRequestDto.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Dtos\\AppointmentRequestDto.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Dtos\\AppointmentRequestDto.cs",
               "RelativeToolTip": "BoxesTecnom\\Dtos\\AppointmentRequestDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T23:38:04.746Z"
+              "WhenOpened": "2025-11-25T23:38:04.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "VehicleDto.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Dtos\\VehicleDto.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Dtos\\VehicleDto.cs",
@@ -142,11 +159,12 @@
               "RelativeToolTip": "BoxesTecnom\\Dtos\\VehicleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T23:36:57.494Z"
+              "WhenOpened": "2025-11-25T23:36:57.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ContactDto.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Dtos\\ContactDto.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Dtos\\ContactDto.cs",
@@ -154,11 +172,12 @@
               "RelativeToolTip": "BoxesTecnom\\Dtos\\ContactDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T23:36:01.6Z"
+              "WhenOpened": "2025-11-25T23:36:01.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "WorkshopsController.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Controllers\\WorkshopsController.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Controllers\\WorkshopsController.cs",
@@ -170,56 +189,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AppointmentsService.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\AppointmentsService.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Services\\AppointmentsService.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\AppointmentsService.cs",
               "RelativeToolTip": "BoxesTecnom\\Services\\AppointmentsService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA7wC0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAASwE0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T23:00:28.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "IAppointmentsService.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\IAppointmentsService.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Services\\IAppointmentsService.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\IAppointmentsService.cs",
               "RelativeToolTip": "BoxesTecnom\\Services\\IAppointmentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T22:59:20.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "AppointmentsController.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Controllers\\AppointmentsController.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "BoxesTecnom\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAxwB4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T22:53:59.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "WorkshopsService.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\WorkshopsService.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Services\\WorkshopsService.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\WorkshopsService.cs",
               "RelativeToolTip": "BoxesTecnom\\Services\\WorkshopsService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:25:01.389Z"
+              "WhenOpened": "2025-11-25T22:25:01.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IWorkshopsService.cs",
               "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Services\\IWorkshopsService.cs",
               "RelativeDocumentMoniker": "BoxesTecnom\\Services\\IWorkshopsService.cs",
@@ -227,7 +247,8 @@
               "RelativeToolTip": "BoxesTecnom\\Services\\IWorkshopsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:23:50.8Z"
+              "WhenOpened": "2025-11-25T22:23:50.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -237,21 +258,10 @@
               "RelativeDocumentMoniker": "BoxesTecnom\\Models\\Workshop.cs",
               "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\Models\\Workshop.cs",
               "RelativeToolTip": "BoxesTecnom\\Models\\Workshop.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:04:52.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BoxesTecnom.csproj",
-              "DocumentMoniker": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\BoxesTecnom.csproj",
-              "RelativeDocumentMoniker": "BoxesTecnom\\BoxesTecnom.csproj",
-              "ToolTip": "C:\\CursoNET\\Challenge\\BoxesTecnom\\BoxesTecnom\\BoxesTecnom.csproj",
-              "RelativeToolTip": "BoxesTecnom\\BoxesTecnom.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-25T21:55:48.669Z"
+              "WhenOpened": "2025-11-25T22:04:52.39Z",
+              "EditorCaption": ""
             }
           ]
         },
