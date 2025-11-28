@@ -28,3 +28,10 @@ publish/
 
 # Archivos generados por herramientas
 Generated Files/
+
+
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+
