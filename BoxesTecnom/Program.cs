@@ -10,12 +10,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<IWorkshopsService, WorkshopsService>();
 builder.Services.AddSingleton<IAppointmentsService, AppointmentsService>();
+builder.Services.AddMemoryCache();
+
 
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngularApp", policy =>
     {
-        policy.WithOrigins("http://localhost:4200")  // URL de tu frontend Angular
+        policy.WithOrigins("http://localhost:4200") 
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
