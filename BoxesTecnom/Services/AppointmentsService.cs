@@ -15,9 +15,9 @@ namespace BoxesTecnom.Services
         {
             return _appointments.Select(a => new AppointmentResponseDto
             {
-                Place_Id = a.Place_Id,
-                Appointment_At = a.Appointment_At,
-                Service_Type = a.Service_Type,
+                Place_id = a.Place_id,
+                Appointment_at = a.Appointment_at,
+                Service_type = a.Service_type,
                 Contact = new ContactDto
                 {
                     Name = a.Contact.Name,
@@ -38,18 +38,18 @@ namespace BoxesTecnom.Services
             var listErrors = ValidateAppointment(appointmentDto);
 
             var activeWorkshops = await _workshopsService.GetWorkshopsAsync();
-            if (!activeWorkshops.Any(w => w.Id == appointmentDto.Place_Id))
+            if (!activeWorkshops.Any(w => w.Id == appointmentDto.Place_id))
             {
-                listErrors.Add("Invalid or inactive place_id: " + appointmentDto.Place_Id);
+                listErrors.Add("Invalid or inactive place_id: " + appointmentDto.Place_id);
             }
             if (listErrors.Count() > 0)
                 return (false, listErrors);
 
             var appointment = new Appointment
             {
-                Place_Id = appointmentDto.Place_Id,
-                Appointment_At = appointmentDto.Appointment_At,
-                Service_Type = appointmentDto.Service_Type,
+                Place_id = appointmentDto.Place_id,
+                Appointment_at = appointmentDto.Appointment_at,
+                Service_type = appointmentDto.Service_type,
                 Contact = new Contact
                 {
                     Name = appointmentDto.Contact.Name,
@@ -81,13 +81,13 @@ namespace BoxesTecnom.Services
             if (string.IsNullOrWhiteSpace(aDto.Contact.Email))
                 errors.Add("The field 'contact.email' is required.");
 
-            if (string.IsNullOrWhiteSpace(aDto.Service_Type))
+            if (string.IsNullOrWhiteSpace(aDto.Service_type))
                 errors.Add("The field 'service_type' is required.");
 
-            if (aDto.Place_Id <= 0)
+            if (aDto.Place_id <= 0)
                 errors.Add("The field 'place_id' must be a positive integer.");
 
-            if (aDto.Appointment_At == default)
+            if (aDto.Appointment_at == default)
                 errors.Add("The field 'appointment_at' is required.");
 
             return errors;

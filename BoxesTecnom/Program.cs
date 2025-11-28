@@ -11,6 +11,17 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<IWorkshopsService, WorkshopsService>();
 builder.Services.AddSingleton<IAppointmentsService, AppointmentsService>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularApp", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200")  // URL de tu frontend Angular
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,6 +34,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseCors("AllowAngularApp");
 
 app.MapControllers();
 
