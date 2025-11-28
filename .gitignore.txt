@@ -1,22 +1,30 @@
-# Build folders
+
+# Archivos de compilación
 bin/
 obj/
 
-# Rider / VS
-.vs/
+# Archivos de usuario
 *.user
 *.suo
-*.vspscc
-*.vssscc
-*.DotSettings.user
+*.userosscache
+*.sln.docstates
+
+# Configuración local
+.vs/
+
+# Paquetes NuGet
+*.nupkg
+packages/
 
 # Logs
 *.log
 
-# Temp
+# Archivos temporales
 *.tmp
-~$*
-*.cache
+*.temp
 
-# Publish
-.publish/
+# Publicaciones
+publish/
+
+# Archivos generados por herramientas
+Generated Files/
