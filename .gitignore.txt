@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+
+# Rider / VS
+.vs/
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+~$*
+*.cache
+
+# Publish
+.publish/
